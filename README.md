@@ -2,9 +2,9 @@
 
 # Openoutpaint webui in google colab
 
-This is an unofficial google colab gui for [OpenOutpaint](https://github.com/zero01101/openOutpaint).
+This is an unofficial google colab ui for [OpenOutpaint](https://github.com/zero01101/openOutpaint).
 
-The gui can be run here: [colab.research.google.com](https://colab.research.google.com/github/antonovmaxim/openoutpaint_webui_colab/blob/main/openoutpaint_webui_colab.ipynb).
+The ui can be run here: [colab.research.google.com](https://colab.research.google.com/github/antonovmaxim/openoutpaint_webui_colab/blob/main/openoutpaint_webui_colab.ipynb).
 
 [OpenOutpaint quickstart wiki article](https://github.com/zero01101/openOutpaint/wiki/SBS-Guided-Example)
 

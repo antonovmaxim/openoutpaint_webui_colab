@@ -8,7 +8,7 @@ The ui can be run here: [colab.research.google.com](https://colab.research.googl
 
 [OpenOutpaint quickstart wiki article](https://github.com/zero01101/openOutpaint/wiki/SBS-Guided-Example)
 
-## Useful links
+## Credits
 [Link to OpenOutpaint github](https://github.com/zero01101/openOutpaint)<br>
 Links to [AUTOMATIC1111](https://github.com/AUTOMATIC1111) and [camenduru](https://github.com/camenduru)<br>
 Useful quote from [OpenOutpaint README](https://github.com/zero01101/openOutpaint/blob/main/README.md):<br>*please see the [quickstart wiki article](https://github.com/zero01101/openOutpaint/wiki/SBS-Guided-Example) and comprehensive [manual](https://github.com/zero01101/openOutpaint/wiki/Manual)*
